@@ -8,3 +8,17 @@ Attach the images to create a clear map <br />
 Calculate the area of each patch <br />
 Recommend Top N patches using various heuristics. <br />
 
+# Level 1 DFD
+![](https://github.com/arshahuja/Energy-Plant-recommendation-for-Biofuel/blob/master/level%201%20dfd.png) <br />
+
+# Scratched Image with Google API
+![](https://github.com/arshahuja/Energy-Plant-recommendation-for-Biofuel/blob/master/scraped%20images%20with%20google%20api.png) <br />
+
+# Extracted Images
+![](https://github.com/arshahuja/Energy-Plant-recommendation-for-Biofuel/blob/master/extracted%20image.png) <br />
+
+# Stiched Images into a single map
+![](https://github.com/arshahuja/Energy-Plant-recommendation-for-Biofuel/blob/master/stitched%20images.png)
+
+# Top N recommendation
+![](https://github.com/arshahuja/Energy-Plant-recommendation-for-Biofuel/blob/master/recommendation.png)
