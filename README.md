@@ -8,6 +8,21 @@ Attach the images to create a clear map <br />
 Calculate the area of each patch <br />
 Recommend Top N patches using various heuristics. <br />
 
+# Problem Formulation
+### Image Extraction: 
+Images of a region can be taken from the Internet using Google API and python Requests library. <br />
+### Image Segmentation: 
+Kmeans Algorithm is a fast and efficient clustering algorithm which can
+be applied on an image to reduce the gradient effect and form clear segments. Then selecting a
+particular segment which contains paddy field, turning it into white and remaining into black. <br />
+### Region Map: 
+Storing the sequence of order in which images are generated can be applied to the
+set of images to bind them into a clear Map. <br />
+### Recommendations: 
+Calculating the area of each patch and then sort them according to the area
+and distance from a certain point.
+
+
 # Level 1 DFD
 ![](https://github.com/arshahuja/Energy-Plant-recommendation-for-Biofuel/blob/master/level%201%20dfd.png) <br />
 
